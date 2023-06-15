@@ -1,4 +1,4 @@
-# seckill
+# 商品秒杀系统
 
 项目框架
 1.	SpringBoot
